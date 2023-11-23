@@ -26,7 +26,7 @@ def graph_maker():
 print(graph_maker())
 ```
 
-## evidemce
+## evidence
 <img width="847" alt="Screenshot 2023-11-23 at 15 16 02" src="https://github.com/ayyyane/unit2_g11/assets/142702159/b9502060-9660-4c37-b224-e9329380f6b5">
 
 ## circuit
