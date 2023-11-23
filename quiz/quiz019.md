@@ -7,6 +7,7 @@
 *A = 1, B = 1 and C = 0 -> output: 1
 
 ## flowchart
+<img width="649" alt="Screenshot 2023-11-23 at 14 41 43" src="https://github.com/ayyyane/unit2_g11/assets/142702159/450a934e-c4f3-4d9e-948b-56b046a9d03c">
 
 
 ## solution
