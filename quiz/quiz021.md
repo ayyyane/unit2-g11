@@ -28,3 +28,5 @@ plt.show()
 ## evidnece
 <img width="874" alt="Screenshot 2023-11-23 at 14 55 57" src="https://github.com/ayyyane/unit2_g11/assets/142702159/917ed957-f600-42c2-b82f-4b378f96dd26">
 
+## truth table
+![IMG_1085](https://github.com/ayyyane/unit2_g11/assets/142702159/eb0edcf2-40fd-4a16-b8cf-f7a070b153a9)
